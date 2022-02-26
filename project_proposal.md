@@ -14,9 +14,9 @@ This project is aimed to be an online language learning platform which is used b
 
 ### **3. Requirements** 
 
-## **4. Limitations**
+### **4. Limitations**
 
-## **5. Entity Relationship Model**
+### **5. Entity Relationship Model**
 
 
 
