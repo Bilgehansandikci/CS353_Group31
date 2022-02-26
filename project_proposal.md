@@ -18,6 +18,6 @@ This project is aimed to be an online language learning platform which is used b
 
 ### **5. Entity Relationship Model**
 
-
+![Image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 
 
