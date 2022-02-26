@@ -2,7 +2,7 @@
 
 # About
 
-## Team Members
+### Team Members
 - Erengazi Mutlu
 - Tuna Öğüt
 - Bilgehan Yılmaz Sandıkcı
