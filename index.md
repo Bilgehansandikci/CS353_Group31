@@ -1,4 +1,4 @@
-## [About](https://bilgehansandikci.github.io/CS353_Group31/About)  [Link](url) [Link](url)
+## [Home](https://bilgehansandikci.github.io/CS353_Group31/) [Project Proposal](https://bilgehansandikci.github.io/CS353_Group31/Project_Proposal) [Project Design](url) [Final Report](url)  [About](https://bilgehansandikci.github.io/CS353_Group31/About)
 
 You can use the [editor on GitHub](https://github.com/Bilgehansandikci/CS353_Group31/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
