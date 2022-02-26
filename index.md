@@ -1,11 +1,5 @@
 ### [Home](https://bilgehansandikci.github.io/CS353_Group31/)&emsp;[Project Proposal](https://bilgehansandikci.github.io/CS353_Group31/project_proposal)&emsp;Project Design&emsp;Final Report&emsp;[About](https://bilgehansandikci.github.io/CS353_Group31/about)
 
-### CS353 Group31
-
+# CS353 Group31
 
 - [Project Proposal](https://bilgehansandikci.github.io/CS353_Group31/project_proposal)
-
-
-This **word** is bold. This <em>word</em> is italic.
-
-
