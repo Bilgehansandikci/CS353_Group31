@@ -4,7 +4,7 @@
 
 ##Team Members
 -
--Erengazi Mutlu
--Tuna Öğüt
--Bilgehan Yılmaz Sandıkcı
--Ömer Burak Yıldıran
+- Erengazi Mutlu
+- Tuna Öğüt
+- Bilgehan Yılmaz Sandıkcı
+- Ömer Burak Yıldıran
