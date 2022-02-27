@@ -16,34 +16,34 @@ This project is aimed to be an online language learning platform that is used by
 ### 3.1 Functional Requirements
 #### 3.1.1 User
 
--Each user except admin needs to sign up and login to the system.
--Users can modify their personal info.
+- Each user except admin needs to sign up and login to the system.
+- Users can modify their personal info.
 
 #### 3.1.2 Admin
 
--Admin status will be granted by the system.
--Admins can see the statistics of grades, exams, and classes.
--Admins can access the entire database and manipulate it.
+- Admin status will be granted by the system.
+- Admins can see the statistics of grades, exams, and classes.
+- Admins can access the entire database and manipulate it.
 
 #### 3.1.3 Teacher
 
--Teachers can assign homework.
--Teachers can grade exams and homeworks.
--Teachers can see how many students are attending their classes.
--Teachers can see which activities that students are attending.
+- Teachers can assign homework.
+- Teachers can grade exams and homeworks.
+- Teachers can see how many students are attending their classes.
+- Teachers can see which activities that students are attending.
 
 #### 3.1.4 Native Speakers
 
--Native speakers can hold speaking sessions.
--Native speakers can grade speaking sessions.
--Native speakers can teach if they are also teachers.
+- Native speakers can hold speaking sessions.
+- Native speakers can grade speaking sessions.
+- Native speakers can teach if they are also teachers.
 
 #### 3.1.5 Students
 
--Students can request classes from teachers according to their level.
--Students can take exams and homeworks.
--Students can attend activities.
--Students can request speaking exercises from native speakers.
+- Students can request classes from teachers according to their level.
+- Students can take exams and homeworks.
+- Students can attend activities.
+- Students can request speaking exercises from native speakers.
 
 ### 3.2 Non-Functional Requirements
 #### 3.2.1 Security
@@ -61,14 +61,14 @@ NodeJS, Javascript, HTML and CSS  will be used in backend and frontend.
 PostgreSQL will be used for Structured Query Language
 ## 4. Limitation
 
--Each user must sign up with a password and unique username.
--Students can not change their grades.
--Native speakers can not teach unless they are also Teachers.
--Only teachers can give homework and exams to students.
--Native speakers can grade speaking sessions.
--Homeworks that is uploaded from teachers and students can not exceed 20mb.
--Username and password can not exceed 32 characters.
--A student can not see other students' grades.
+- Each user must sign up with a password and unique username.
+- Students can not change their grades.
+- Native speakers can not teach unless they are also Teachers.
+- Only teachers can give homework and exams to students.
+- Native speakers can grade speaking sessions.
+- Homeworks that is uploaded from teachers and students can not exceed 20mb.
+- Username and password can not exceed 32 characters.
+- A student can not see other students' grades.
 
 ## 5. Entity Relationship Model
 ![Image](https://bilgehansandikci.github.io/CS353_Group31/proposal_diagram1.png)
