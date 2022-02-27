@@ -14,29 +14,29 @@ This project is aimed to be an online language learning platform that is used by
 
 
 ### 3. Requirements
-<span style="font-size:16;">3.1 Functional Requirements</span> 
-#### 3.1.1 User
+#### 3.1 Functional Requirements
+**3.1.1 User**
 - Each user except admin needs to sign up and login to the system.
 - Users can modify their personal info.
-#### 3.1.2 Admin
+**3.1.2 Admin**
 - Admin status will be granted by the system.
 - Admins can see the statistics of grades, exams, and classes.
 - Admins can access the entire database and manipulate it.
-#### 3.1.3 Teacher
+**3.1.3 Teacher**
 - Teachers can assign homework.
 - Teachers can grade exams and homeworks.
 - Teachers can see how many students are attending their classes.
 - Teachers can see which activities that students are attending.
-#### 3.1.4 Native Speakers
+**3.1.4 Native Speakers**
 - Native speakers can hold speaking sessions.
 - Native speakers can grade speaking sessions.
 - Native speakers can teach if they are also teachers.
-#### 3.1.5 Students
+**3.1.5 Students**
 - Students can request classes from teachers according to their level.
 - Students can take exams and homeworks.
 - Students can attend activities.
 - Students can request speaking exercises from native speakers.
-#### **3.2 Non-Functional Requirements**
+#### 3.2 Non-Functional Requirements
 #### 3.2.1 Security
 Username and password will be unique to the user therefore, users have their own account. With the various account types, users can only manipulate things that their account type allows them to do. Also, we will be using a database server which will enhance the security against malicious action. 
 #### 3.2.2 Performance
