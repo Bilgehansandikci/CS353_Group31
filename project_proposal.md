@@ -1,8 +1,8 @@
 ### [Home](https://bilgehansandikci.github.io/CS353_Group31/)&emsp;[Project Proposal](https://bilgehansandikci.github.io/CS353_Group31/project_proposal)&emsp;Project Design&emsp;Final Report&emsp;[About](https://bilgehansandikci.github.io/CS353_Group31/about)
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; #### *[Download PDF](https://bilgehansandikci.github.io/CS353_Group31/)*
 
-
-# Project Proposal &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; #### *[Download PDF](https://bilgehansandikci.github.io/CS353_Group31/)*
+# Project Proposal 
 
 ### **1. Introduction**
 This project proposal is about an Online Language Learning platform. This proposal will include a brief description about the project, functional and non-functional requirements, limitations of our application’s database and finally the entity relationship model of our database. 
