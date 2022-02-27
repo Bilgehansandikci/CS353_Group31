@@ -51,7 +51,14 @@ The system should be developed in a way that if a problem or error occurs, it mu
 - NodeJS and Javascript will be used in backend and frontend.
 - PostgreSQL will be used for 
 ## 4. Limitations
-
+- Each user must sign up with a password and unique username.
+- Students can not change their grades.
+- Native speakers can not teach unless they are also Teachers.
+- Only teachers can give homework and exams to students.
+- Native speakers can grade speaking sessions.
+- Homeworks that is uploaded from teachers and students can not exceed 20mb.
+- Username and password can not exceed 32 characters.
+- A student can not see other students' grades.
 
 ## 5. Entity Relationship Model
 ![Image](https://bilgehansandikci.github.io/CS353_Group31/proposal_diagram1.png)
