@@ -1,6 +1,6 @@
 ### [Home](https://bilgehansandikci.github.io/CS353_Group31/)&emsp;[Project Proposal](https://bilgehansandikci.github.io/CS353_Group31/project_proposal)&emsp;Project Design&emsp;Final Report&emsp;[About](https://bilgehansandikci.github.io/CS353_Group31/about)
 
-### [Download PDF](https://bilgehansandikci.github.io/CS353_Group31/)
+#### **[Download PDF](https://bilgehansandikci.github.io/CS353_Group31/)**
 
 # Project Proposal
 
@@ -20,6 +20,6 @@ This project is aimed to be an online language learning platform which is used b
 
 ### **5. Entity Relationship Model**
 
-![Image](https://bilgehansandikci.github.io/CS353_Group31/proposal_diagram1)
+![Image](https://bilgehansandikci.github.io/CS353_Group31/proposal_diagram1.png)
 
 
