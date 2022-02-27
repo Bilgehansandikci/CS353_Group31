@@ -14,7 +14,7 @@ This project is aimed to be an online language learning platform that is used by
 
 
 ### 3. Requirements
-####  <span style="font-size:larger;">3.1 Functional Requirements</span> 
+<span style="font-size:larger;">3.1 Functional Requirements</span> 
 #### 3.1.1 User
 - Each user except admin needs to sign up and login to the system.
 - Users can modify their personal info.
