@@ -13,8 +13,8 @@ This project proposal is about an Online Language Learning platform. This propos
 This project is aimed to be an online language learning platform that is used by students, teachers, and native speakers of a particular language. The main goal of the application is to establish a bridge between students and teachers or native speakers. Students will request classes from teachers depending on the language they prefer and their level of knowledge will be considered for the classes they request. Students can also request speaking sessions with native speakers of a particular language. So, to make students see those lists of classes, we need a database. Also, with the help of the database, teachers will see the number of students and their information who are enrolled in their class. If teachers give assignments to the students, they will be stored on the database and also, grading of these assignments. Lastly, there will be a platform admin who is capable of monitoring the grading average of the students and information about the teachers.
 
 
-### 3. Requirements 
-#### 3.1 Functional Requirements
+### 3. Requirements
+#### **3.1 Functional Requirements**
 #### 3.1.1 User
 - Each user except admin needs to sign up and login to the system.
 - Users can modify their personal info.
@@ -36,7 +36,7 @@ This project is aimed to be an online language learning platform that is used by
 - Students can take exams and homeworks.
 - Students can attend activities.
 - Students can request speaking exercises from native speakers.
-#### 3.2 Non-Functional Requirements
+#### **3.2 Non-Functional Requirements**
 #### 3.2.1 Security
 Username and password will be unique to the user therefore, users have their own account. With the various account types, users can only manipulate things that their account type allows them to do. Also, we will be using a database server which will enhance the security against malicious action. 
 #### 3.2.2 Performance
@@ -47,7 +47,7 @@ The UI should be advanced enough to meet the needs of the users and also it shou
 This application needs to be modular and modifiable enough to grow in case of data size. So that in the future, the project can handle the data size.
 #### 3.2.5 Maintainability
 The system should be developed in a way that if a problem or error occurs, it must be easy enough to handle. Also, if there is an update needed, it should be easy enough to deploy to the production.
-#### 3.3 Constraints (Pseudo Requirements)
+#### **3.3 Constraints (Pseudo Requirements)**
 - NodeJS and Javascript will be used in backend and frontend.
 - PostgreSQL will be used for 
 ### 4. Limitations
